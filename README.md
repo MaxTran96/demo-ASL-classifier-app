@@ -1,0 +1,1 @@
+This is a demo web app I made using tensorflowjs after following through the tensorflow js tutorial of google. This app is used to help deaf people communicate better by having their hand signs being classified into vocabularies.
